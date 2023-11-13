@@ -3,4 +3,6 @@ body {
 }
 .gt { text-align: center;}
 
-img
+img{
+text-align: left; 
+}
