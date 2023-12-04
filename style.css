@@ -8,5 +8,8 @@ text-align: center;}
 figure{
 text-align: center; 
 }
-.tt
+.tt{
+    width: 10px;
+    height: 10px;
+}
 
